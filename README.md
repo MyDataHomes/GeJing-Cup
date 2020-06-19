@@ -41,7 +41,7 @@
 
 * 确认已经完成了报名流程（提交了团队信息，并且同意了比赛承诺书）
 * 确认比赛作品已经完成，并且可以通过阅读项目README文档获取所有资料。如果是私有库，请确认已经给官方账号（id: [MyDataHomes](https://github.com/MyDataHomes)）添加了阅读权限。
-* fork这个仓库，拷贝[作品提交模板](./submissions/submission-template.md)来创建一份副本，仔细阅读模板并填充团队和项目信息，**注意不要遗漏必填项，也不要修改其他任何文件**。
+* fork本仓库，拷贝[作品提交模板](./submissions/submission-template.md)来创建一份副本，仔细阅读模板并填充团队和项目信息，**注意不要遗漏必填项，也不要修改其他任何文件**。
 * 重命名为 团队名称.md。
 * 发起一次pull request完成作品提交申请。
 
