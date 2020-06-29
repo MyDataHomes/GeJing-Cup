@@ -29,7 +29,7 @@
 ### 2. 加入大赛技术协作交流群
   - 添加大赛客服微信：mydatahome，回复“开发者+姓名”，加入大赛技术协作群
 
-  <img src="https://s1.ax1x.com/2020/06/23/NNrIG4.png" width="30%" >
+  <img src="https://s1.ax1x.com/2020/06/29/NfECHf.jpg" width="30%" >
 
 ### 3. 准备作品
 
