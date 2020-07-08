@@ -3,7 +3,7 @@
 - 队伍名称：小马
 - 队长姓名：马龙
 - 代码链接 https://github.com/myp6666/taobao
-
+- 演示链接 https://github.com/myp6666/taobao/blob/master/README.md
 采集淘宝中的已购买的、我的足迹、我的收藏中的信息
 
 一、初始界面
