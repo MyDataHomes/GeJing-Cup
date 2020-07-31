@@ -1,8 +1,8 @@
 
 ## 队伍信息
 
-* **队伍名称***：
-* **队长姓名***：
+* **队伍名称***：披荆斩棘
+* **队长姓名***：吴凡
 
 
 ## 项目信息
@@ -63,7 +63,7 @@
 首先保证您已经安装了```python3.7.4```及以上版本,然后依次运行如下命令。
 
 ```sh
-git clone https://github.com/aoii103/webot.git
+git clone https://github.com/star-safe/webot.git
 
 cd webot
 
